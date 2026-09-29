@@ -1,0 +1,8 @@
+streamlit>=1.30
+unsloth
+transformers>=4.40
+torch>=2.1
+accelerate
+bitsandbytes
+sentencepiece
+protobuf
